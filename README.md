@@ -47,3 +47,6 @@ Conduzi, com apoio da equipe de implantação da UZE, todo o processo de criaç�
 Além disso, também participei das ações de divulgação interna e externa, com iniciativas como carro de som, panfletagem e outdoor, visando a captação de novos clientes e a adesão ao cartão.
 
 **3. Fotos**
+
+Balança destinada a sessão de produtos naturais e temperos
+<img src="assets/img/Balança destinada a sessão de produtos naturais e temperos..jpg" width="900">
