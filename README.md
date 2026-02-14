@@ -92,7 +92,7 @@ Visando de um consulta preço.
 <img src="assets/img/Visando de um consulta preço..jpg" width="900">
 
 Visão de 1 dos 4 consulta preços instalados.
-<img src="assets/img/Visão de 1 dos 4 consulta preços instalados..jpg" width="900" height="900">
+<img src="assets/img/Visão de 1 dos 4 consulta preços instalados..jpg" width="900" height="600">
 
 Visão de 7 dos 8 PDV's.
 <img src="assets/img/Visão de 7 dos 8 PDV's..jpg" width="900">
