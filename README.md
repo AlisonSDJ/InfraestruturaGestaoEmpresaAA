@@ -18,7 +18,11 @@ Toda a reforma da loja foi realizada com a unidade em pleno funcionamento. Por e
 
 - Rede
 
-A infraestrutura de rede foi planejada com dois racks, visando maior organização, segmentação e facilidade de manutenção. No Rack A (principal), foi instalada uma MikroTik RB951G-2HnD, responsável pelo gerenciamento completo da rede, incluindo firewall, controle da LAN, segmentação por VLANs, failover e gerenciamento dos links de internet fornecido pelos ISPs. A partir da RB, a conectividade é distribuída por meio do Switch A, que atende retaguardas, servidor, VoIP, Access Points e DVR, além de realizar o cascateamento para o Switch B, localizado no Rack B(acesso), responsável pela distribuição para os PDV's  da loja e DVR. 
+A infraestrutura de rede foi planejada com dois racks dedicados a dados, visando maior organização, segmentação e facilidade de manutenção. No Rack A (principal), foi instalada uma MikroTik RB951G-2HnD, responsável pelo gerenciamento completo do ambiente, incluindo firewall, controle da LAN, segmentação por VLANs, failover e administração dos links de internet fornecidos pelos ISPs. A partir desse rack, a conectividade é distribuída para as 9 retaguardas, 2 access points, telefonia VoIP, servidor e um dos DVRs, além de realizar o cascateamento (uplink) para o switch localizado no rack de acesso.
+
+No Rack B (acesso), foi instalado um switch de distribuição, responsável por atender os 8 PDVs e também um dos DVRs, garantindo conectividade estruturada, padronizada e adequada aos pontos críticos da operação.
+
+Para o ambiente de CFTV, os dois DVRs foram organizados em dois racks exclusivos, assegurando melhor organização física, separação dos equipamentos de segurança eletrônica e maior facilidade de manutenção.
 
 - PDVs e Retaguardas
 
