@@ -94,6 +94,9 @@ Visando de um consulta preço.
 Visão de 1 dos 4 consulta preços instalados.
 <img src="assets/img/Visão de 1 dos 4 consulta preços instalados..jpg" width="900">
 
+Retaguarda
+<img src="assets/img/retaguarda.jpg" width="900">
+
 Visão de 7 dos 8 PDV's.
 <img src="assets/img/Visão de 7 dos 8 PDV's..jpg" width="900">
 
