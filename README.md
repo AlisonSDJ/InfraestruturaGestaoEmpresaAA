@@ -109,7 +109,7 @@ Impressora em rede utilizada no escritório.
 <img src="assets/img/impressora.jpeg" width="900">
 
 Mapa de toda infraestrutura elaborado no Zabbix.
-<img src="assets/img/mapa.jpeg" width="900">
+<img src="assets/img/mapa.png" width="900">
 
 
 Access Point - 1
