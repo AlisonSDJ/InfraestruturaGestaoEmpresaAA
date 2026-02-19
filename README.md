@@ -4,7 +4,11 @@ Em construção...falta colocar imagens das retaguardas, do rack(principal) e do
 
 - Objetivo do Projeto
 
-O objetivo deste projeto foi reestruturar e implantar toda a infraestrutura de TI de um supermercado, planejando soluções aderentes às demandas técnicas e operacionais, com foco em estabilidade, organização e continuidade das operações. Paralelamente, conduzi a implantação do sistema ERP e realizei o treinamento dos colaboradores, visando padronizar rotinas e processos nos setores Comercial, Financeiro, Entrada e Saída de Notas, Vendas e Administrativo.
+O objetivo deste projeto foi reestruturar e implantar toda a infraestrutura de TI de uma rede composta por três lojas. Planejei e executei soluções alinhadas às demandas técnicas e operacionais, com foco em estabilidade, organização e continuidade das operações.
+
+Paralelamente, conduzi a implantação do sistema ERP e realizei o treinamento dos colaboradores, visando padronizar rotinas e processos nos setores Comercial, Financeiro, Entrada e Saída de Notas, Vendas e Administrativo.
+
+Inicialmente, a reestruturação foi realizada na empresa matriz, porém as demais unidades também passarão pelo mesmo processo, seguindo o mesmo padrão de implantação.
 
 - Cenário encontrado
 
